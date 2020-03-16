@@ -4,6 +4,9 @@ This repo contains tutorials/examples demonstrating the power of the ReZero arch
 
 The official ReZero repo is [here](https://github.com/majumderb/rezero).
 
+- [Training 128 layer ReZero Transformer on WikiText-2 language modeling](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_Transformer.ipynb)
+
+
 # Install
 
 To install ReZero via pip use ```pip install rezero```
