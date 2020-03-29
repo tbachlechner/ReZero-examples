@@ -1,11 +1,15 @@
 # ReZero-examples
 
-This repo contains tutorials/examples demonstrating the power of the ReZero architecture, see the [paper](https://arxiv.org/pdf/2003.04887.pdf).
+This repo contains examples demonstrating the power of the ReZero architecture, see the [paper](https://arxiv.org/pdf/2003.04887.pdf).
 
 The official ReZero repo is [here](https://github.com/majumderb/rezero).
 
 - [Training 128 layer ReZero Transformer on WikiText-2 language modeling](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_Transformer.ipynb)
+- [Training 10,000 layer ReZero fully connected network on CIFAR-10](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_NeuralNetwork.ipynb)
 
+# Contribute
+
+If you find ReZero or a similar architecture improves the performance of your application, you are invited to share a demonstration here.
 
 # Install
 
