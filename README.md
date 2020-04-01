@@ -9,7 +9,8 @@ The official ReZero repo is [here](https://github.com/majumderb/rezero).
 <p align="center">
 <img src=./Plots/ResNet56_error_2.png  alt="ResNet56_error" width="450"/>
 </p>
-Final valid errors: Vanilla - 7.74. FixUp - 7.5. ReZero - 6.38, [see](https://github.com/tbachlechner/Fixup).
+
+Final valid errors: Vanilla - 7.74. FixUp - 7.5. ReZero - 6.38,  [see](https://github.com/tbachlechner/Fixup) .
 
 - [Training 128 layer ReZero Transformer on WikiText-2 language modeling](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_Transformer.ipynb)
 - [Training 10,000 layer ReZero fully connected network on CIFAR-10](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_NeuralNetwork.ipynb)
