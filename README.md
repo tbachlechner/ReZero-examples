@@ -7,7 +7,7 @@ The official ReZero repo is [here](https://github.com/majumderb/rezero).
 
 - [ReZNet - Faster ResNet training via ReZero](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZNet-6x_faster_ResNet_training_via_ReZero.ipynb)
 <p align="center">
-<img src=./Plots/ResNet56_error.png  alt="ResNet56_error" width="350"/>
+<img src=./Plots/ResNet56_error_2.png  alt="ResNet56_error" width="350"/>
 </p>
 
 
