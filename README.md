@@ -4,6 +4,7 @@ This repo contains examples demonstrating the power of the ReZero architecture, 
 
 The official ReZero repo is [here](https://github.com/majumderb/rezero).
 
+- [ReZero speeds up superconvergence](https://github.com/tbachlechner/ReZero-Superconvergence/blob/master/Faster_SuperC.ipynb)
 
 - [ReZNet - Faster ResNet training via ReZero](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZNet-6x_faster_ResNet_training_via_ReZero.ipynb)
 <p align="center">
