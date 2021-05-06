@@ -1,5 +1,5 @@
-numpy
+numpy==1.19.5
 matplotlib
-torch
-torchvision
-torchtext
+torch==1.6.0
+torchvision==0.7.0
+torchtext==0.6.0
